@@ -1,0 +1,19 @@
+{
+  "name": "en12ss_currency_converter",
+  "version": "1.0.1",
+  "description": "By using this you can convert one currency into other",
+  "main": "currency_converter.js",
+  "type": "module",
+  "bin": "currency_converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehtesham Mujahid",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
